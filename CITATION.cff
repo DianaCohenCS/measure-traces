@@ -1,0 +1,15 @@
+abstract: This software measures average frequency of batched items in Internet traces.
+authors:
+  - family-names: Cohen
+    given-names: Diana
+    orcid: "https://orcid.org/0009-0003-6061-7635"
+cff-version: 1.2.0
+date-released: 2024-11-05
+keywords:
+  - "measure traces"
+  - research
+license: GPL-3.0
+message: If you use this software, please cite it using these metadata.
+repository-code: "https://github.com/DianaCohenCS/measure-traces"
+title: "Measuring average frequency of batched items in Internet traces"
+type: software
