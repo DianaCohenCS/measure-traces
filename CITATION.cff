@@ -1,4 +1,4 @@
-abstract: This software measures average frequency of batched items in Internet traces.
+abstract: This software measures average frequency of batched items in Internet traces. New feature was added to measure mean relative errors, refer to README file for more details.
 authors:
   - family-names: Cohen
     given-names: Diana
